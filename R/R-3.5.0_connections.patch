@@ -1,5 +1,5 @@
---- ../R-3.4.2/src/main/connections.c	2017-09-07 18:15:02.000000000 -0400
-+++ ../R-3.4.2-patched/src/main/connections.c	2017-10-20 16:52:48.397536000 -0400
+--- ../R-3.5.0/src/main/connections.c	2017-09-07 18:15:02.000000000 -0400
++++ ../R-3.5.0-patched/src/main/connections.c	2017-10-20 16:52:48.397536000 -0400
 @@ -120,7 +120,9 @@
  # include <Startup.h>
  #endif
